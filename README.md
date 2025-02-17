@@ -5,6 +5,7 @@
 
 #시스템 구성
 
+
 1) 게임 보드 (맵 시스템)
 
 13x13 크기의 보드 (실제 이동 가능한 경로는 외곽 40칸)
@@ -74,15 +75,23 @@
 3) 게임 상태 출력: 현재 보드 상태 및 플레이어 자산을 실시간으로 출력
 
 #flow chart
+
+
 ![순서도2](https://github.com/user-attachments/assets/60afe36f-14d9-47ea-8e49-20be4fa0a5bd)
 
 #주요 기능 정의서
+
+
 ![image](https://github.com/user-attachments/assets/d3fc9384-04db-4504-910a-bd4c42cb91b3)
 
 #프로그램 동작 영상
+
+
 https://github.com/user-attachments/assets/5e7a5124-d9f0-42c9-8ce1-f8fbc4b3f05e
 
 #개선점
+
+
 1. 게임 진행 관련 개선
 턴 진행 방식 개선
 - 현재는 단순히 p++로 플레이어를 교체하는 방식이므로, 게임 흐름을 관리하는 별도 턴 시스템 구성
