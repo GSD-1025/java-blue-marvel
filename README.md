@@ -1,9 +1,9 @@
-#개요 
+# 개요 
 
 
 본 프로젝트는 Java를 활용한 텍스트 기반 보드게임으로, 플레이어들이 주사위를 굴려 보드를 이동하며, 부동산을 구매하고 거래하는 방식으로 진행됩니다. 특정 칸에서는 특수한 이벤트가 발생하며, 최종적으로 파산하지 않고 가장 많은 자산을 보유한 플레이어가 승리합니다.
 
-#시스템 구성
+# 시스템 구성
 
 
 1) 게임 보드 (맵 시스템)
@@ -74,22 +74,22 @@
 
 3) 게임 상태 출력: 현재 보드 상태 및 플레이어 자산을 실시간으로 출력
 
-#flow chart
+# flow chart
 
 
 ![순서도2](https://github.com/user-attachments/assets/60afe36f-14d9-47ea-8e49-20be4fa0a5bd)
 
-#주요 기능 정의서
+# 주요 기능 정의서
 
 
 ![image](https://github.com/user-attachments/assets/d3fc9384-04db-4504-910a-bd4c42cb91b3)
 
-#프로그램 동작 영상
+# 프로그램 동작 영상
 
 
 https://github.com/user-attachments/assets/5e7a5124-d9f0-42c9-8ce1-f8fbc4b3f05e
 
-#개선점
+# 개선점
 
 
 1. 게임 진행 관련 개선
